@@ -18,6 +18,12 @@ A machine learning-powered web application for predicting diseases based on symp
 - **Frontend**: HTML, CSS, Jinja2 templates
 - **Data Storage**: CSV datasets
 
+
+
+# MedPlus AI
+
+Live Demo: https://medplus-ai.onrender.com/
+
 ## Installation
 
 1. **Clone the repository**:
